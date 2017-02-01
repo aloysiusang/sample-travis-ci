@@ -1,4 +1,4 @@
-/Users/aloysiusang/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20170201-34995-70ii0x.rb extconf.rb 
+/Users/aloysiusang/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20170201-39319-1dtiqvl.rb extconf.rb 
 creating Makefile
 
 make "DESTDIR=" clean
@@ -8,4 +8,4 @@ compiling debug_inspector.c
 linking shared-object debug_inspector.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20170201-34995-yfmt32
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20170201-39319-9cs8h1

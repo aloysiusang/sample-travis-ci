@@ -1,4 +1,4 @@
-/Users/aloysiusang/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20170201-34995-hobq59.rb extconf.rb --use-system-libraries
+/Users/aloysiusang/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20170201-39319-1ldhdz7.rb extconf.rb --use-system-libraries
 checking if the C compiler accepts ... yes
 checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
 Building nokogiri using system libraries.
@@ -95,4 +95,4 @@ Cleaning files only used during build.
 rm -rf /Users/aloysiusang/projects/sample-travis-ci/vendor/cache/ruby/2.2.0/gems/nokogiri-1.7.0.1/ports/archives
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20170201-34995-d9i57b/nokogiri
+/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20170201-39319-1ej3ss7/nokogiri

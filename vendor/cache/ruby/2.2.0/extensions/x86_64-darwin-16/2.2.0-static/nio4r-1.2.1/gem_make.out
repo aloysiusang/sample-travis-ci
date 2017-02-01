@@ -1,4 +1,4 @@
-/Users/aloysiusang/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20170201-34995-a4kon9.rb extconf.rb 
+/Users/aloysiusang/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20170201-39319-1ddc8k0.rb extconf.rb 
 checking for unistd.h... yes
 checking for rb_thread_blocking_region()... no
 checking for rb_thread_call_without_gvl()... yes
@@ -231,4 +231,4 @@ compiling selector.c
 linking shared-object nio4r_ext.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20170201-34995-se3483
+/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20170201-39319-1rh1r7n

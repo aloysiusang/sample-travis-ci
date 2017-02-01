@@ -1,4 +1,4 @@
-/Users/aloysiusang/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20170201-34995-yw0pnr.rb extconf.rb 
+/Users/aloysiusang/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20170201-39319-13xl0my.rb extconf.rb 
 checking for sqlite3.h... yes
 checking for pthread_create() in -lpthread... yes
 checking for sqlite3_libversion_number() in -lsqlite3... yes
@@ -34,4 +34,4 @@ linking shared-object sqlite3/sqlite3_native.bundle
 ld: warning: directory not found for option '-L/usr/local/Cellar/sqlite/3.16.2/lib'
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20170201-34995-17motv/sqlite3
+/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20170201-39319-wc8vux/sqlite3

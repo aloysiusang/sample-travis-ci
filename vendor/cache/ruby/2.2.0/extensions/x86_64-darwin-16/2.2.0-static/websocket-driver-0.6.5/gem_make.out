@@ -1,4 +1,4 @@
-/Users/aloysiusang/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20170201-34995-1h01fv7.rb extconf.rb 
+/Users/aloysiusang/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20170201-39319-49uzl7.rb extconf.rb 
 creating Makefile
 
 make "DESTDIR=" clean
@@ -8,4 +8,4 @@ compiling websocket_mask.c
 linking shared-object websocket_mask.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20170201-34995-zl8or7
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20170201-39319-iin1an
