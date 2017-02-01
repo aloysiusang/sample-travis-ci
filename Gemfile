@@ -43,6 +43,7 @@ end
 group :test do
   gem 'rake'
   gem 'rspec-rails'
+  gem 'cucumber-rails', :require => false
 end
 
 group :development do
