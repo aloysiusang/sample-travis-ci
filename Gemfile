@@ -43,7 +43,9 @@ end
 group :test do
   gem 'rake'
   gem 'rspec-rails'
+
   gem 'cucumber-rails', :require => false
+  gem 'database_cleaner'
 end
 
 group :development do
